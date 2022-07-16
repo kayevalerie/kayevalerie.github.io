@@ -26,3 +26,7 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+
+# VSCode
+.frontmatter
+.vscode
