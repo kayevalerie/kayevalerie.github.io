@@ -1,0 +1,1 @@
+## A starter Jekyll site running a modified version of the [Minima theme](https://github.com/jekyll/minima).
