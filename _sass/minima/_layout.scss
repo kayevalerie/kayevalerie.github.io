@@ -95,6 +95,7 @@
       }
   
       .page-link {
+        color: $text-color;
         display: block;
         padding: 5px 10px;
   
@@ -197,12 +198,12 @@
   
   .post-list {
     list-style: none;
-    width: 68%;
+    width: 78%;
     margin: 0 auto;
   
     > li {
       border-left: 0.4rem double lighten($brand-color, 38%);
-      margin-bottom: $spacing-unit * 2.4;
+      margin-bottom: $spacing-unit * 1.2;
       padding: 1.8rem;
 
       &:hover {
@@ -216,6 +217,15 @@
       &:hover {
         background-color: darken($background-color, 2%);
         text-decoration: none;
+      }
+    }
+
+    @include media-query($on-palm) {
+      width: 100%;
+
+      > li {
+        margin-bottom: $spacing-unit;
+        padding: 0.92rem;
       }
     }
   }
