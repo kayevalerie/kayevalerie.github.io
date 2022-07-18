@@ -38,17 +38,32 @@
       color: #fff;
       line-height: $base-line-height;
       text-decoration: none;
+      position: relative;
+      transition: color .3s ease-in-out;
+      z-index: 0;
   
       // Gaps between nav items, but not on the last one
       &:not(:last-child) {
         margin-right: 20px;
       }
 
+      &::after {
+        content: "";
+        display: block;
+        position: absolute;
+        inset: 0;
+        width: 0;
+        background-color: $brand-color;
+        transition: width .3s ease-in-out;
+        z-index: -1;
+      }
+  
       &:hover {
-        background-color: rgba(0,0,0,0);
-        text-decoration: underline;
-        text-decoration-color: $grey-color-light;
-        text-underline-offset: 0.5rem;
+        text-decoration: none;
+      }
+  
+      &:hover:after {
+        width: 100%;
       }
     }
   
@@ -152,6 +167,7 @@
   }
   
   .footer-col-3 {
+    text-align: right;
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
   }
@@ -164,7 +180,6 @@
     }
   
     .footer-col-3 {
-      text-align: right;
       width: -webkit-calc(100% - (#{$spacing-unit} / 2));
       width:         calc(100% - (#{$spacing-unit} / 2));
     }
@@ -175,6 +190,10 @@
       float: none;
       width: -webkit-calc(100% - (#{$spacing-unit} / 2));
       width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-3 {
+      text-align: justify;
     }
   }
   

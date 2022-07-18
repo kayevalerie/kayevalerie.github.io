@@ -107,10 +107,10 @@
    color: $brand-color;
    text-decoration: none;
 
-   &:hover {
-     color: $text-color;
-     background-color: lighten($brand-color, 32%);
-     text-decoration: underline;
+    &:hover {
+      text-decoration: underline;
+      text-decoration-thickness: 0.12rem;
+      text-underline-offset: 0.28rem;
    }
  
    .social-media-list &:hover {
