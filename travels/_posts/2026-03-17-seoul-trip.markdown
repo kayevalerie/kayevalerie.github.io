@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Seoul Trip May 2026
-tags: korea
 toc: true
 lastmod: 2026-03-17T03:46:38.908Z
 ---
@@ -26,41 +25,44 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
 ### 14/05/2026 (Thursday)
 
-- Arrive at Incheon Airport [transport: train to Meyongdong station]
-- Check in at hotel
-
-#### Explore Myeongdong
-
-- Insadong Culture Street
-- Namdaemun Market
-- Seoul Tower
-  - can ride cable car up or do 1 hr hike to the top
-  - lots of snacks/food options here
-- Jongmyo Shrine, Changdeokgung Palace, Changgyeongung Palace
-  - can get a combo pass for tickets to the "Five Grand Palaces"
+- J&K depart for Seoul via Singapore
 
 ### 15/05/2026 (Friday)
 
-#### Head spa / hair salon booking at ??? (TODO)
+- J&K arrive at Incheon Airport [transport: train to Myeongdong station]
+- Check in at hotel
 
-#### Explore Hongdae
-
-- Full body scrub at Shinsegae Centum City Spaland
-- Shopping options: AK Plaza Hongdae, Object, Mplayground, Ultravintage
-- Clubbing at Hongdae or Itaewon
+- **Explore Myeongdong**
+  - Insadong Culture Street
+  - Namdaemun Market
+  - Seoul Tower
+    - can ride cable car up or do 1 hr hike to the top
+    - lots of snacks/food options here
+  - Jongmyo Shrine, Changdeokgung Palace, Changgyeongung Palace
+    - can get a combo pass for tickets to the "Five Grand Palaces"
 
 ### 16/05/2026 (Saturday)
 
-#### Explore Seongsu
+- B depart for Seoul
 
-- Clothes shopping in ???
+- **Head spa / hair salon booking** at ???
+- **Explore Hongdae**
+  - Full body scrub at Shinsegae Centum City Spaland
+  - Shopping options: AK Plaza Hongdae, Object, Mplayground, Ultravintage
+- **Explore Seongsu**
+  - Clothes shopping
+- **30th bday celebration**
+  - Clubbing in Hongdae or Itaewon
 
 ### 17/05/2026 (Sunday)
 
 - Early AM: Take KTX train to Busan
-- Food: Jagalchi Fish Market, see other [food options](https://seafoodslurps.com/best-seafood-in-busan)
-- Walk: [Igidae Coastal trail](https://heyroseanne.com/igidae-coastal-walk/), 2-3 hrs round trip, easy
-- Sightseeing: Gamcheon Culture Village, Songdo Skywalk (public beach), Haedong Yonggungsa Temple (Temple of the Dragon Palace)
+- **Food:** Jagalchi Fish Market, see other [food options](https://seafoodslurps.com/best-seafood-in-busan)
+- **Walk:** [Igidae Coastal trail](https://heyroseanne.com/igidae-coastal-walk/), 2-3 hrs round trip, easy
+- **Sightseeing**
+  - Gamcheon Culture Village
+  - Songdo Skywalk (public beach)
+  - Haedong Yonggungsa Temple (Temple of the Dragon Palace)
 - Evening: Take KTX train back to Seoul
 
 ### 18/05/2026 (Monday)
