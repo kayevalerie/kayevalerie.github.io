@@ -2,13 +2,11 @@
 layout: post
 title: Seoul Trip May 2026
 tag: travel korea
-lastmod: 2026-03-17T03:40:42.663Z
+toc: true
+lastmod: 2026-03-17T03:46:38.908Z
 ---
 
 This is not a fixed itinerary! I haven't really listed timeframes for activities in each day (aside from any bookings we need to make). Just throwing some ideas around and compiling a list of what we can do / where to go and eat. Let's just aim for a more relaxed trip with lots of good food, shopping, self-care, and some sightseeing and partying. We can do some easy trails if everyone's down for that.
-
-- This will become a table of contents (this text will be scrapped).
-  {:toc}
 
 <br />
 ## Flight Details
@@ -100,7 +98,6 @@ Thrift shops:
 
 - Root in Myeongdong and Hongdae
 - Margaret in Hannam-dong [@margaret_seoul](https://www.instagram.com/margaret_seoul/)
-- ...
 
 <br />
 ## More reading
