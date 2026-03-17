@@ -8,6 +8,7 @@ lastmod: 2026-03-17T03:46:38.908Z
 This is not a fixed itinerary! I haven't really listed timeframes for activities in each day (aside from any bookings we need to make). Just throwing some ideas around and compiling a list of what we can do / where to go and eat. Let's just aim for a more relaxed trip with lots of good food, shopping, self-care, and some sightseeing and partying. We can do some easy trails if everyone's down for that.
 
 <br />
+
 ## Flight Details
 
 | Traveler(s) | Terminal | Inbound | Terminal | Outbound |
@@ -15,10 +16,23 @@ This is not a fixed itinerary! I haven't really listed timeframes for activities
 | | Incheon T1 | SQ 600<br />15/05 08:00 - 15/05 15:35 | Melbourne T2 | SQ 247<br />21/05 19:00 - 22/05 04:20 |
 | B | NAIA T3 - Incheon T1 | 5J 186<br />16/05 02:05 - 16/05 07:20 | Incheon T1 - NAIA T3 | 5J 185<br />21/05 08:20 - 21/05 11:40
 
-Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
+## Accomodation
 
-- Address: 53 Myeongdong 8ga-gil, Chungmuro 2(i)-ga, Jung District, Seoul, South Korea
-- Phone: +82 2-740-4500
+[**Creto Hotel Myeongdong**](https://hotelcreto.com)
+
+Address: 53 Myeongdong 8ga-gil, Chungmuro 2(i)-ga, Jung District, Seoul, South Korea
+
+Phone: +82 2-740-4500
+
+## Transportation/Getting around
+
+- Grab T-money/Mpass card [https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663)
+- Use Naver maps and create lists
+
+## Payment options
+
+- Use Gcash/Up Bank debit cards
+- Cash, bring at least ??? KRW
 
 <br />
 ## Itinerary
@@ -86,7 +100,9 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 - Depart for Incheon airport [transport: Uber?]
 
 <br />
+
 ## Food list
+
 ...
 
 ## Shopping list
