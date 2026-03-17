@@ -19,7 +19,7 @@ This is not a fixed itinerary! I haven't really listed timeframes for activities
 
 ## Accomodation
 
-[**Creto Hotel Myeongdong**](https://hotelcreto.com)
+[**Creto Hotel Myeongdong**](http://www.hotelcreto.com/)
 
 Address: 53 Myeongdong 8ga-gil, Chungmuro 2(i)-ga, Jung District, Seoul, South Korea
 
