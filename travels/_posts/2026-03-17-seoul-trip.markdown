@@ -29,7 +29,7 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
 ### 15/05/2026 (Friday)
 
-- J&K arrive at Incheon Airport [transport: train to Myeongdong station]
+- J&K arrive at Incheon Airport T1 at 15:35 [transport options: ride train to Myeongdong station or take the [airport limousine bus](https://airportlimousine.co.kr/en/sub/sub01.php)]
 - Check in at hotel
 
 - **Explore Myeongdong**
@@ -43,7 +43,8 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
 ### 16/05/2026 (Saturday)
 
-- B depart for Seoul
+- B depart from NAIA T3
+- B arrive at Incheon Airport T1 at 07:20
 
 - **Head spa / hair salon booking** at ???
 - **Explore Hongdae**
@@ -67,7 +68,8 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
 ### 18/05/2026 (Monday)
 
-- DMZ Tour
+- DMZ Tour from 07:30 - 13:00, can book at [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
+- ...
 
 ### 19/05/2026 (Tuesday)
 
@@ -79,10 +81,14 @@ Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
 ### 21/05/2026 (Thursday)
 
-- Check out from hotel around 07:00
-- Depart for Incheon airport [transport: ???]
+- B check out from hotel around 04:00
+- J&K check out from hotel around 07:00
+- Depart for Incheon airport [transport: Uber?]
 
 <br />
+## Food list
+...
+
 ## Shopping list
 
 Misc. shops:
