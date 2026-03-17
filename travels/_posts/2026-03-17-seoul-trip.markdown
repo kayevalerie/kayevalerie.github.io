@@ -7,7 +7,7 @@ lastmod: 2026-03-17T03:46:38.908Z
 
 This is not a fixed itinerary! I haven't really listed timeframes for activities in each day (aside from any bookings we need to make). Just throwing some ideas around and compiling a list of what we can do / where to go and eat. Let's just aim for a more relaxed trip with lots of good food, shopping, self-care, and some sightseeing and partying. We can do some easy trails if everyone's down for that.
 
-<br />
+---
 
 ## Flight Details
 
@@ -26,7 +26,7 @@ Phone: +82 2-740-4500
 
 ## Transportation/Getting around
 
-- Grab T-money/Mpass card [https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663)
+- Grab T-money/Mpass card
 - Use Naver maps and create lists
 
 ## Payment options
@@ -34,7 +34,8 @@ Phone: +82 2-740-4500
 - Use Gcash/Up Bank debit cards
 - Cash, bring at least ??? KRW
 
-<br />
+---
+
 ## Itinerary
 
 ### 14/05/2026 (Thursday)
@@ -99,7 +100,7 @@ Phone: +82 2-740-4500
 - J&K check out from hotel around 07:00
 - Depart for Incheon airport [transport: Uber?]
 
-<br />
+---
 
 ## Food list
 
@@ -123,7 +124,19 @@ Thrift shops:
 - Root in Myeongdong and Hongdae
 - Margaret in Hannam-dong [@margaret_seoul](https://www.instagram.com/margaret_seoul/)
 
-<br />
+---
+
 ## More reading
 
-[https://www.reddit.com/r/koreatravel/comments/1lbf48m/14_days_may_2025_seoul_gyeongju_busan/](https://www.reddit.com/r/koreatravel/comments/1lbf48m/14_days_may_2025_seoul_gyeongju_busan/)
+Itinerary
+
+- [https://www.reddit.com/r/koreatravel/comments/1lbf48m/14_days_may_2025_seoul_gyeongju_busan/](https://www.reddit.com/r/koreatravel/comments/1lbf48m/14_days_may_2025_seoul_gyeongju_busan/)
+
+Transport
+
+- [https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663)
+- [https://www.reddit.com/r/koreatravel/comments/1bflq24/do_i_really_need_a_tmoney_card/](https://www.reddit.com/r/koreatravel/comments/1bflq24/do_i_really_need_a_tmoney_card/)
+
+Shopping
+
+- ...
