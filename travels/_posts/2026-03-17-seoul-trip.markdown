@@ -13,7 +13,7 @@ This is not a fixed itinerary! I haven't really listed timeframes for activities
 | Traveler(s) | Terminal | Inbound | Terminal | Outbound |
 | J & K | Melbourne T2 | SQ 218<br/>14/05 23:35 - 15/05 05:30 | Incheon T1 | SQ 611<br />21/05 11:30 - 21/05 16:50 |
 | | Incheon T1 | SQ 600<br />15/05 08:00 - 15/05 15:35 | Melbourne T2 | SQ 247<br />21/05 19:00 - 22/05 04:20 |
-| B | NAIA T3 - Incheon T1 | 5J 186, 16/05 02:05 - 16/05 07:20 | Incheon T1 - NAIA T3 | 21/05 08:20 - 21/05 11:40
+| B | NAIA T3 - Incheon T1 | 5J 186<br />16/05 02:05 - 16/05 07:20 | Incheon T1 - NAIA T3 | 5J 185<br />21/05 08:20 - 21/05 11:40
 
 Hotel: [**Creto Hotel Myeongdong**](https://hotelcreto.com)
 
