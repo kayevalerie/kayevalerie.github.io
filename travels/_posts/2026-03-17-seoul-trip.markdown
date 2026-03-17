@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seoul Trip May 2026
-tag: travel korea
+tags: korea
 toc: true
 lastmod: 2026-03-17T03:46:38.908Z
 ---
