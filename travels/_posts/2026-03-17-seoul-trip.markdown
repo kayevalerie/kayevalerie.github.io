@@ -3,6 +3,7 @@ layout: post
 title: Seoul Trip May 2026
 toc: true
 lastmod: 2026-03-17T03:46:38.908Z
+slug: seoul-trip-may-2026
 ---
 
 This is not a fixed itinerary! I haven't really listed timeframes for activities in each day (aside from any bookings we need to make). Just throwing some ideas around and compiling a list of what we can do / where to go and eat. Let's just aim for a more relaxed trip with lots of good food, shopping, self-care, and some sightseeing and partying. We can do some easy trails if everyone's down for that.
@@ -83,7 +84,7 @@ Phone: +82 2-740-4500
 
 ### 18/05/2026 (Monday)
 
-- DMZ Tour from 07:30 - 13:00, can book at [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
+- DMZ Tour from 07:30 - 13:00, [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
 - ...
 
 ### 19/05/2026 (Tuesday)
@@ -101,6 +102,15 @@ Phone: +82 2-740-4500
 - Depart for Incheon airport [transport: Uber?]
 
 ---
+
+## Todo
+
+- [ ] Book DMZ Tour
+- [ ] Book hair salon appointment
+- [ ] Book Korail return tickets via mobile app [earliest is one month before departure]
+- [ ] Save food and shopping options
+- [ ] Finalise itinerary
+- [ ] Bring transport cards
 
 ## Food list
 
