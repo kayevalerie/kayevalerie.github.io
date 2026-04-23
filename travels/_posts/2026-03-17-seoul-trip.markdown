@@ -19,7 +19,7 @@ This is not a fixed itinerary! I haven't really listed timeframes for activities
 
 ## Accomodation
 
-[**Creto Hotel Myeongdong**](http://www.hotelcreto.com/)
+[**Creto Hotel Myeongdong**](http://www.hotelcreto.com/english.html)
 
 Address: 53 Myeongdong 8ga-gil, Chungmuro 2(i)-ga, Jung District, Seoul, South Korea
 
@@ -33,7 +33,7 @@ Phone: +82 2-740-4500
 ## Payment options
 
 - Use Gcash/Up Bank debit cards
-- Cash, bring at least ??? KRW
+- Cash
 
 ---
 
@@ -52,7 +52,7 @@ Phone: +82 2-740-4500
   - Insadong Culture Street
   - Namdaemun Market
   - Seoul Tower
-    - can ride cable car up or do 1 hr hike to the top
+    - can ride cable car up or do a 1 hr hike to the top
     - lots of snacks/food options here
   - Jongmyo Shrine, Changdeokgung Palace, Changgyeongung Palace
     - can get a combo pass for tickets to the "Five Grand Palaces"
@@ -62,14 +62,11 @@ Phone: +82 2-740-4500
 - B depart from NAIA T3
 - B arrive at Incheon Airport T1 at 07:20
 
-- **Head spa / hair salon booking** at ???
 - **Explore Hongdae**
   - Full body scrub at Shinsegae Centum City Spaland
   - Shopping options: AK Plaza Hongdae, Object, Mplayground, Ultravintage
 - **Explore Seongsu**
   - Clothes shopping
-- **30th bday celebration**
-  - Clubbing in Hongdae or Itaewon
 
 ### 17/05/2026 (Sunday)
 
@@ -84,30 +81,29 @@ Phone: +82 2-740-4500
 
 ### 18/05/2026 (Monday)
 
-- DMZ Tour from 07:30 - 13:00, [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
 - ...
 
 ### 19/05/2026 (Tuesday)
 
-- ...
+- **Hongdae**
+  - 16:00 K Tattoo appointment
 
 ### 20/05/2026 (Wednesday)
 
-- ...
+- 07:30 - 16:30 DMZ Tour, [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
 
 ### 21/05/2026 (Thursday)
 
-- B check out from hotel around 04:00
-- J&K check out from hotel around 07:00
-- Depart for Incheon airport [transport: Uber?]
+- 04:00 B check out from hotel
+- 07:00 J&K check out from hotel
+- Depart for Incheon airport [Uber/airport bus]
 
 ---
 
 ## Todo
 
 - [ ] Book DMZ Tour
-- [ ] Book hair salon appointment
-- [ ] Book Korail return tickets via mobile app [earliest is one month before departure]
+- [ ] Book Korail return tickets
 - [ ] Save food and shopping options
 - [ ] Finalise itinerary
 - [ ] Bring transport cards
