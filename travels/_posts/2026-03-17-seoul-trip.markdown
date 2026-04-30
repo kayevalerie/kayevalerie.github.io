@@ -47,50 +47,55 @@ Phone: +82 2-740-4500
 
 - J&K arrive at Incheon Airport T1 at 15:35 [transport options: ride train to Myeongdong station or take the [airport limousine bus](https://airportlimousine.co.kr/en/sub/sub01.php)]
 - Check in at hotel
-
-- **Explore Myeongdong**
-  - Insadong Culture Street
-  - Namdaemun Market
-  - Seoul Tower
-    - can ride cable car up or do a 1 hr hike to the top
-    - lots of snacks/food options here
-  - Jongmyo Shrine, Changdeokgung Palace, Changgyeongung Palace
-    - can get a combo pass for tickets to the "Five Grand Palaces"
+- **Beauty**: Hair/nail salon visit
 
 ### 16/05/2026 (Saturday)
 
 - B depart from NAIA T3
 - B arrive at Incheon Airport T1 at 07:20
 
-- **Explore Hongdae**
-  - Full body scrub at Shinsegae Centum City Spaland
-  - Shopping options: AK Plaza Hongdae, Object, Mplayground, Ultravintage
-- **Explore Seongsu**
-  - Clothes shopping
+- **Myeongdong**
+  - Dongdaemun market for clothing (open until 03:00)
+  - Gwangjang market for kalguksu and bedding
+  - Insadong Culture Street
+  - Namdaemun Market
+  - Seoul Tower
+    - can ride cable car up or do a 1 hr hike to the top
+    - lots of snacks/food options here
+  - Jongmyo Shrine, Changdeokgung Palace, Changgyeongung Palace, Bukchon Village
+    - can get a combo pass for tickets to the "Five Grand Palaces"
 
 ### 17/05/2026 (Sunday)
 
-- Early AM: Take KTX train to Busan
+- 06:57 Take KTX train to Busan
 - **Food:** Jagalchi Fish Market, see other [food options](https://seafoodslurps.com/best-seafood-in-busan)
 - **Walk:** [Igidae Coastal trail](https://heyroseanne.com/igidae-coastal-walk/), 2-3 hrs round trip, easy
 - **Sightseeing**
   - Gamcheon Culture Village
   - Songdo Skywalk (public beach)
   - Haedong Yonggungsa Temple (Temple of the Dragon Palace)
-- Evening: Take KTX train back to Seoul
+- 20:23 Take KTX train back to Seoul
 
 ### 18/05/2026 (Monday)
 
-- ...
+- No activities in the AM
+- Visit cherry blossom street
+- **Gangnam**: Coex Starfield Library, Goto Underground Mall
+- Clubbing at night
 
 ### 19/05/2026 (Tuesday)
 
+- Shopping day
 - **Hongdae**
+  - Shopping options: AK Plaza Hongdae, Object, Mplayground, Ultravintage
   - 16:00 K Tattoo appointment
+- **Seongsu**
+  - Clothes shopping
 
 ### 20/05/2026 (Wednesday)
 
 - 07:30 - 16:30 DMZ Tour, [Klook](https://www.klook.com/en-AU/activity/216-dmz-tour-gyeonggi-do/)
+- Explore Myeongdong for dining and shopping options
 
 ### 21/05/2026 (Thursday)
 
@@ -102,15 +107,15 @@ Phone: +82 2-740-4500
 
 ## Todo
 
-- [ ] Book DMZ Tour
-- [ ] Book Korail return tickets
-- [ ] Save food and shopping options
-- [ ] Finalise itinerary
+- [x] Book Korail return tickets
+- [ ] Book nail/hair salon appointment (optional)
+- [ ] Book DMZ day tour (optional)
+- [ ] Save food and shopping options to map app
 - [ ] Bring transport cards
 
 ## Food list
 
-...
+- Saltbread
 
 ## Shopping list
 
