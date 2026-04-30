@@ -45,14 +45,11 @@ Phone: +82 2-740-4500
 
 ### 15/05/2026 (Friday)
 
-- J&K arrive at Incheon Airport T1 at 15:35 [transport options: ride train to Myeongdong station or take the [airport limousine bus](https://airportlimousine.co.kr/en/sub/sub01.php)]
+- J&K arrive at Incheon Airport T1 [transport options: ride train to Myeongdong station or take the [airport limousine bus](https://airportlimousine.co.kr/en/sub/sub01.php)]
 - Check in at hotel
 - **Beauty**: Hair/nail salon visit
 
 ### 16/05/2026 (Saturday)
-
-- B depart from NAIA T3
-- B arrive at Incheon Airport T1 at 07:20
 
 - **Myeongdong**
   - Dongdaemun market for clothing (open until 03:00)
