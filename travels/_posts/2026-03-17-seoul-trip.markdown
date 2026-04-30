@@ -13,9 +13,9 @@ This is not a fixed itinerary! I haven't really listed timeframes for activities
 ## Flight Details
 
 | Traveler(s) | Terminal | Inbound | Terminal | Outbound |
-| J & K | Melbourne T2 | SQ 218<br/>14/05 23:35 - 15/05 05:30 | Incheon T1 | SQ 611<br />21/05 11:30 - 21/05 16:50 |
-| | Incheon T1 | SQ 600<br />15/05 08:00 - 15/05 15:35 | Melbourne T2 | SQ 247<br />21/05 19:00 - 22/05 04:20 |
-| B | NAIA T3 - Incheon T1 | 5J 186<br />16/05 02:05 - 16/05 07:20 | Incheon T1 - NAIA T3 | 5J 185<br />21/05 08:20 - 21/05 11:40
+| J & K | Melbourne T2 | SQ 218<br/>14/05 23:35 - 15/05 05:30 | Incheon T1 | SQ 611<br />21/05 11:05 - 21/05 16:35 |
+| | Incheon T1 | SQ 600<br />15/05 08:10 - 15/05 15:30 | Melbourne T2 | SQ 247<br />21/05 19:20 - 22/05 04:40 |
+| B | NAIA T3 - Incheon T1 | 5J 186<br />16/05 12:10 - 16/05 05:20 | Incheon T1 - NAIA T3 | 5J 185<br />21/05 06:35 - 21/05 09:55
 
 ## Accomodation
 
@@ -99,8 +99,8 @@ Phone: +82 2-740-4500
 
 ### 21/05/2026 (Thursday)
 
-- 04:00 B check out from hotel
-- 07:00 J&K check out from hotel
+- ~03:00 B check out from hotel
+- ~08:00 J&K check out from hotel
 - Depart for Incheon airport [Uber/airport bus]
 
 ---
