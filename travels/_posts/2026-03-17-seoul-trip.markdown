@@ -6,10 +6,6 @@ lastmod: 2026-03-17T03:46:38.908Z
 slug: seoul-trip-may-2026
 ---
 
-This is not a fixed itinerary! I haven't really listed timeframes for activities in each day (aside from any bookings we need to make). Just throwing some ideas around and compiling a list of what we can do / where to go and eat. Let's just aim for a more relaxed trip with lots of good food, shopping, self-care, and some sightseeing and partying. We can do some easy trails if everyone's down for that.
-
----
-
 ## Flight Details
 
 | Traveler(s) | Terminal | Inbound | Terminal | Outbound |
@@ -32,7 +28,7 @@ Phone: +82 2-740-4500
 
 ## Payment options
 
-- Use Gcash/Up Bank debit cards
+- Use Gcash/any debit card with no int'l transaction fees
 - Cash
 
 ---
@@ -47,7 +43,6 @@ Phone: +82 2-740-4500
 
 - J&K arrive at Incheon Airport T1 [transport options: ride train to Myeongdong station or take the [airport limousine bus](https://airportlimousine.co.kr/en/sub/sub01.php)]
 - Check in at hotel
-- **Beauty**: Hair/nail salon visit
 
 ### 16/05/2026 (Saturday)
 
@@ -78,7 +73,7 @@ Phone: +82 2-740-4500
 - No activities in the AM
 - Visit cherry blossom street
 - **Gangnam**: Coex Starfield Library, Goto Underground Mall
-- Clubbing at night
+- Clubbing
 
 ### 19/05/2026 (Tuesday)
 
@@ -105,10 +100,7 @@ Phone: +82 2-740-4500
 ## Todo
 
 - [x] Book Korail return tickets
-- [ ] Book nail/hair salon appointment (optional)
 - [ ] Book DMZ day tour (optional)
-- [ ] Save food and shopping options to map app
-- [ ] Bring transport cards
 
 ## Food list
 
@@ -119,7 +111,7 @@ Phone: +82 2-740-4500
 Misc. shops:
 
 | Beauty | Clothing | Food |
-| Olive Young, Tamburins, Nonfiction | | Daiso |
+| Olive Young (pimple patches), Tamburins, Nonfiction | | Daiso (instant soup packets, pasta sauces) |
 | | | ^ grab badminton tote bag for J |
 
 Department stores:
@@ -144,7 +136,3 @@ Transport
 
 - [https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140663)
 - [https://www.reddit.com/r/koreatravel/comments/1bflq24/do_i_really_need_a_tmoney_card/](https://www.reddit.com/r/koreatravel/comments/1bflq24/do_i_really_need_a_tmoney_card/)
-
-Shopping
-
-- ...
